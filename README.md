@@ -17,3 +17,8 @@ White House call to action: https://www.whitehouse.gov/briefings-statements/call
 6. `mv /path/to/CORD-19-research-challenge.zip ./data`
 7. `cd ./data`
 8. `unzip CORD-19-research-challenge.zip`
+
+
+# Data
+
+Structure of the JSON files: https://www.kaggle.com/xhlulu/cord-19-eda-parse-json-and-generate-clean-csv
